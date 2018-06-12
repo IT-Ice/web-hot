@@ -1,0 +1,24 @@
+{
+  "name": "web-hot",
+  "version": "1.0.0",
+  "description": "The web  hot update",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IT-Ice/web-hot.git"
+  },
+  "keywords": [
+    "hot",
+    "hot-update",
+    "web-hot"
+  ],
+  "author": "ice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IT-Ice/web-hot/issues"
+  },
+  "homepage": "https://github.com/IT-Ice/web-hot#readme"
+}

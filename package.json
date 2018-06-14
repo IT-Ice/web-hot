@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/IT-Ice/web-hot/issues"
   },
-  "homepage": "https://github.com/IT-Ice/web-hot#readme"
+  "homepage": "https://github.com/IT-Ice/web-hot#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }

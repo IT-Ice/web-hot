@@ -4,7 +4,8 @@
   "description": "The web  hot update",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -22,9 +23,7 @@
   },
   "homepage": "https://github.com/IT-Ice/web-hot#readme",
   "dependencies": {
-    "async": "^2.6.1",
     "express": "^4.16.3",
-    "express-http-proxy": "^1.2.0",
     "socket.io": "^2.1.1",
     "watch": "^1.0.2"
   }
